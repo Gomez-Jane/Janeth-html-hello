@@ -1,0 +1,124 @@
+/* {
+	border: 1px dashed red;
+	min-height: 10px;
+}
+*/
+body{
+    display: flexbox;
+    background-color: black;
+}
+#Box{
+    background-color: rgb(231, 229, 229);
+}
+#Head{
+    width: 100%;
+    height: 50%;
+    background-color: white;
+    margin: 0;
+    padding: 0.05px;
+}
+.Title{
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    width: 100%;
+    margin-left: 25%;
+    text-align: left;
+}
+#Second.div{
+    width: 100%;
+    height: 50%;
+}
+#Picture-1{
+    background: rgb(255, 255, 255);
+    position: relative;
+    right: 25%;
+    left: 25%;
+    width: 50%;
+    height: 400px;
+    margin-top: 50px;
+}
+#Head-1{
+    display: inline-flex;
+    width: 100%;
+    height: 40px;
+    border-bottom: 1px solid rgb(218, 218, 218)
+}
+#Title.Head-1{
+    margin-right: auto;
+}
+.Title-1{
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-size: medium;
+    font-style: normal;
+    color: black;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+#Date-1{
+    margin-left: auto;
+}
+.Number-1{
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-size: medium;
+    font-style: normal;
+    color: grey;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+#Photo-1{
+    width: 100%;
+    height: 280px;
+}
+.Grafic-1{
+    z-index: 1;
+    margin: auto;
+    width: 100%;
+    height: 280px;
+}
+#Comment-1{
+    width: 100%;
+    height: 90px;
+    border-top: 1px solid rgb(218, 218, 218)
+}
+.Text-1{
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-size: 100;
+    font-style: normal;
+    color: black;
+    padding: none;
+    margin: 10px 20px 10px 20px;
+    text-align: justify;
+}
+#Picture-2{
+    background: rgb(255, 255, 255);
+    position: relative;
+    right: 25%;
+    left: 25%;
+    width: 50%;
+    height: 400px;
+    margin-top: 50px;
+    padding: 5px;
+}
+#Picture-3{
+    background: rgb(255, 255, 255);
+    position: relative;
+    right: 25%;
+    left: 25%;
+    width: 50%;
+    height: 400px;
+    margin-top: 50px;
+}
+#Picture-4{
+    background: rgb(255, 255, 255);
+    position: relative;
+    right: 25%;
+    left: 25%;
+    width: 50%;
+    height: 400px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
